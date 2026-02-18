@@ -49,9 +49,8 @@ The project focuses on real-world backend architecture, API security, and system
 ### AI Resume Parser (NLP Model + Extraction Logic):  
 - Built using spaCy / transformers  
 - Parses resume PDFs into structured JSON  
-- Extracts skills, experience, education, keywords  
-- Model demo available via Streamlit (local execution)  
-- Code: https://github.com/yourrepo/resume-parser
+- Extracts skills, experience, education, keywords    
+- Code: [https://github.com/yourrepo/resume-parser](https://github.com/Gyanesh-Codes/Resume-Parser)
 
 ---
 
