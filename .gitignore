@@ -1,0 +1,5 @@
+backend/.env
+node_modules/
+Resume_Annalyzer/.streamlit/secrets.toml
+.DS_Store
+setu/.env

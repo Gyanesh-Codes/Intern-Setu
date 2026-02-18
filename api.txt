@@ -1,0 +1,23 @@
+all authentication and protection is done by jwt web token
+
+/api/auth/register  --register a new user
+/api/auth/login     --login a user
+/api/auth/profile   --gives the profile    protected
+/api/auth/student-dashboard  --show student dashboard protected role based login
+/api/auth/company-dashboard  --show company dashboard protected role based login
+
+
+/api/internships/count-by-location   --count the internship at that location
+/api/internships/  --post for company protected to post the internship
+/api/internships/  --get for the student total  internship available
+/api/internships/match --get for most matching skills according to the profile and city preffered
+
+
+/api/applications/ --protected for the student to apply for internship
+/api/applications/internshipId --company only to get rejected
+/api/applications/status/applicationId  --company only to update status of applicationId
+/api/applications/student/studentId   --companyonly to get students profile
+
+/api/profile/        --protect studentOnly upload.single("resume") createOrUpdateProfile
+/api/profile/userId   --student only to get the profile
+
