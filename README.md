@@ -1,7 +1,7 @@
 # InternSetu 
 
 ##  Overview
-InternSetu is a full-stack internship management platform that connects students and companies.
+InternSetu is an AI-Powered full-stack internship management platform that connects students and companies.
 
 It supports secure authentication, role-based access, resume upload, and skill-based internship matching.
 
