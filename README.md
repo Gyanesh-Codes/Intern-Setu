@@ -46,15 +46,26 @@ The project focuses on real-world backend architecture, API security, and system
 - Git & GitHub  
 - Postman for API testing  
 
+### AI Resume Parser (NLP Model + Extraction Logic):  
+- Built using spaCy / transformers  
+- Parses resume PDFs into structured JSON  
+- Extracts skills, experience, education, keywords  
+- Model demo available via Streamlit (local execution)  
+- Code: https://github.com/yourrepo/resume-parser
+
 ---
 
 ##  API Endpoints
 All API endpoints are secured using JWT authentication.  
 Refer to the sections below for detailed API usage examples.
 Access depends on user role (Student / Company).
+
 ---
 ###
 - for frontend visit https://internsetu-4.onrender.com
 ---
 ###
 - for backend visit  https://internsetu-3.onrender.com
+---
+###
+- for AI resume Parser visit : [https://resume-parser-internsetu.streamlit.app/](https://resume-parser-internsetu.streamlit.app/)
