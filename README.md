@@ -50,7 +50,7 @@ The project focuses on real-world backend architecture, API security, and system
 - Built using spaCy / transformers  
 - Parses resume PDFs into structured JSON  
 - Extracts skills, experience, education, keywords    
-- Code: [https://github.com/yourrepo/resume-parser](https://github.com/Gyanesh-Codes/Resume-Parser)
+- Code: [https://github.com/Gyanesh-Codes/Resume-parser](https://github.com/Gyanesh-Codes/Resume-Parser)
 
 ---
 
